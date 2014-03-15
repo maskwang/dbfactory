@@ -1,0 +1,26 @@
+{
+  "name": "dbfactory",
+  "version": "0.0.0",
+  "description": "NodeJs DBfactory",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node example/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maskwang/dbfactory.git"
+  },
+  "keywords": [
+    "DB",
+    "Mysql"
+  ],
+  "author": "maskwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maskwang/dbfactory/issues"
+  },
+  "homepage": "https://github.com/maskwang/dbfactory"
+}
